@@ -402,6 +402,15 @@ article .icon {
   margin: 2rem auto;
   padding: 0.5rem;
 }
+.details-container-2 {
+  padding: 0.2rem;
+  flex: 1; 
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
 
 /* CONTACT */
 
